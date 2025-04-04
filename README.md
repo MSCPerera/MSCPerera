@@ -23,6 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscperera&show_icons=true&locale=en&layout=compact&theme=radical" alt="mscperera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mscperera&show_icons=true&locale=en" alt="mscperera" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mscperera&show_icons=true&locale=en&theme=radical" alt="mscperera" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mscperera&" alt="mscperera" /></p>
