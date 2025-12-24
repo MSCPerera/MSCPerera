@@ -29,8 +29,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscperera&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mscperera&show_icons=true&locale=en&theme=radical" alt="mscperera" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSCPerera&show_icons=true&locale=en&theme=radical" alt="MSCPerera's Stats" />
 </div>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mscperera&theme=radical" alt="mscperera" />
+  <img src="https://streak-stats.demolab.com/?user=MSCPerera&theme=radical" alt="MSCPerera's Streak" />
 </p>
