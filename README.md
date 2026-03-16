@@ -3,12 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mscperera&label=Profile%20views&color=0e75b6&style=flat" alt="mscperera" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Angular, React, Flutter**
-
-- 💬 Ask me about **JavaScript, React, Angular**
-
+- 🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
+- 💻 Passionate Full Stack Developer with strong frontend & backend expertise
 - 📫 How to reach me **sandunperera200127@gmail.com**
-
 - ⚡ Fun fact **Call me as Chama**
 
 <h3 align="left">Connect with me:</h3>
